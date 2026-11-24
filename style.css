@@ -98,3 +98,29 @@
       padding: 1rem;
       margin-top: 2rem;
     }
+
+  .skills-highlight {
+      background: #fff0f6;
+      border: 2px solid var(--rosa);
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin: 2rem auto;
+  }
+  
+  .skills-highlight h3 {
+      color: var(--rosa);
+      text-align: center;
+      font-size: 1.4rem;
+      margin-bottom: 1rem;
+  }
+  
+  .skills-highlight ul {
+      list-style: none;
+      padding: 0;
+  }
+  
+  .skills-highlight li {
+      text-align: center;
+      margin-bottom: 0.75rem;
+      font-weight: 500;
+  }
